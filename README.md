@@ -1,4 +1,4 @@
-![PROJETO SALES_site_dark](https://drive.google.com/drive/u/0/my-drive)
+![PROJETO SALES_site_dark](https://ibb.co/7VrCcw0)
 
 
 # Sales Analysis Dash
