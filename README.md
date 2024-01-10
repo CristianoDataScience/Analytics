@@ -1,4 +1,4 @@
-![PROJETO SALES_site_dark](https://ibb.co/7VrCcw0)
+<a href="https://ibb.co/7VrCcw0"><img src="https://i.ibb.co/5vs4DNJ/Captura-de-Tela-2024-01-09-a-s-19-16-34.png" alt="Captura-de-Tela-2024-01-09-a-s-19-16-34" border="0"></a>
 
 
 # Sales Analysis Dash
