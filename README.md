@@ -1,4 +1,4 @@
-![PROJETO SALES_site_dark](https://drive.google.com/file/d/1LTjcCc4_ajtto0VN8IdAn5fFiScaGrQW/view?usp=drive_link)
+![PROJETO SALES_site_dark](https://drive.google.com/drive/u/0/my-drive)
 
 
 # Sales Analysis Dash
