@@ -1,4 +1,4 @@
-![PROJETO SALES_site_dark](https://user-images.githubusercontent.com/103602522/175695715-76b513e9-cd4d-4927-9681-a815555d88cf.jpg)
+![PROJETO SALES_site_dark](https://drive.google.com/file/d/1LTjcCc4_ajtto0VN8IdAn5fFiScaGrQW/view?usp=drive_link)
 
 
 # Sales Analysis Dash
